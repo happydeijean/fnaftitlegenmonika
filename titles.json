@@ -1,7 +1,7 @@
 {
     "origin":
         [
-            "#titles# #names#", "#names# #subtitles2#", "#itemnames# #subtitles2#", "#titles# #names#", "#titles# #names# #numbers#", "#titles# #names#", "#titles# #names#", "#titles# #names#", "Ultimate #names# Night", "#names#", "#titles# #names##subtitles#", "#titles# #names# #numbers##subtitles#", "#names##subtitles#", "#names# #numbers##subtitles#", "#titles2# #itemnames#", "#titles2# #itemnames##subtitles#", "#names# has sex with #names#", "#names# Pizza Tower mod", "#titles# #names# #numbers##subtitles##subtitles#","Five Nights at #names#"
+            "#titles# #names#", "#names# #subtitles2#", "#itemnames# #subtitles2#", "#titles# #names#", "#titles# #names# #numbers#", "#titles# #names#", "#titles# #names#", "#titles# #names#", "Ultimate #names# Night", "#names#", "#titles# #names##subtitles#", "#titles# #names# #numbers##subtitles#", "#names##subtitles#", "#names# #numbers##subtitles#", "#titles2# #itemnames#", "#titles2# #itemnames##subtitles#", "#names2# has sex with #names2#", "#names# Pizza Tower mod", "#titles# #names# #numbers##subtitles##subtitles#","Five Nights at #names#"
         ],
     "titles":
         [
@@ -13,7 +13,11 @@
         ],
     "names":
         [
-            "alex.does.stuff's", "Mariuigi's", "danlopw's", "Zawro's", "Xicos'", "Nighthack's", "Goofball's", "Deijean's", "Tyler's", "Aaron's", "@everyone", "Mario", "Peppino", "Bridget", "Buster", "Wario", "Bo Noise", "Death of PizzaFuntime", "The Doise", "The Voice", "Ooise", "Peppino.xdelta's", "Paper Noise's", "Paper Mario", "Pizza Tower", "Atonic's", "Roise TV's", "SERGEY's"
+            "alex.does.stuff's", "Mariuigi's", "danlopw's", "Zawro's", "Xicos'", "Nighthack's", "Goofball's", "Deijean's", "Tyler's", "Aaron's", "@everyone's", "Mario's", "Peppino's", "Bridget's", "Buster's", "Wario's", "Bo Noise's", "Death of PizzaFuntime's", "The Doise's", "The Voice's", "Ooise's", "Peppino.xdelta's", "Paper Noise's", "Paper Mario's", "Pizza Tower's", "Atonic's", "Roise TV's", "SERGEY's"
+        ],
+        "names2":
+        [
+            "alex.does.stuff", "Mariuigi", "danlopw", "Zawro", "Xicos", "Nighthack", "Goofball", "Deijean", "Tyler", "Aaron", "@everyone", "Mario", "Peppino", "Bridget", "Buster", "Wario", "Bo Noise", "Death of PizzaFuntime", "The Doise", "The Voice", "Ooise", "Peppino.xdelta", "Paper Noise", "Paper Mario", "Pizza Tower", "Atonic", "Roise TV", "SERGEY"
         ],
     "itemnames":
         [
